@@ -6,8 +6,8 @@ Experienced Software Engineer | Full Stack Developer | Agile Practitioner
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiklamghari1&label=Profile%20views&color=0e75b6&style=flat" alt="toufiklamghari1" /> </p>
 
 <!-- GitHub profile trophy -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toufiklamghari1" alt="toufiklamghari1" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toufiklamghari1" alt="toufiklamghari1" /></a> </p>
+-->
 ## About Me
 
 Experienced Java software developer with over 2 years of experience in designing and developing scalable enterprise applications. Skilled in Java, Spring Boot, Angular, and ReactJS. Adept at delivering efficient, high-quality solutions while leveraging Agile methodologies.
