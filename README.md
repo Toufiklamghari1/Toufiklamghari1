@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lamghari Toufik
 
-Java Software Developer | Passionate about building scalable enterprise applications.
+Experienced Software Engineer | Full Stack Developer | Agile Practitioner
 
 <!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiklamghari1&label=Profile%20views&color=0e75b6&style=flat" alt="toufiklamghari1" /> </p>
