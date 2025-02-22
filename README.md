@@ -17,7 +17,7 @@ Experienced Java software developer with over 2 years of experience in designing
 🔭 Areas of Interest: Machine Learning, Neural Networks, 3D Reconstruction.
 
 - 🔭 I’m currently working on **Tesselate Group as a Dev Engineer**
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning various **app architectures** to enhance my development skills
 - 📫 How to reach me **tofiklmghari@gmail.com**
 - ⚡ Fun fact **I love exploring new technologies and solving complex problems**
 
