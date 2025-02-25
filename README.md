@@ -10,7 +10,7 @@ Experienced Software Engineer | Full Stack Developer | Agile Practitioner
 -->
 ## About Me
 
-Experienced Java software developer with three years of experience in designing and developing scalable enterprise applications. Skilled in Java, Spring Boot, Angular, and ReactJS. Adept at delivering efficient, high-quality solutions while leveraging Agile methodologies.
+Autonomous and enthusiastic Java Developer with 3+ years of experience, I have developed strong technical skills and worked extensively with tools and technologies like Java, Spring Boot, Angular, and React. Experienced in building scalable enterprise solutions using Agile practices, I am eager to take on new challenges and contribute my energy, problem-solving skills, and passion for innovation to a collaborative and innovative team.
 
 🎓 Master's in Intelligent Systems and Networks from Sidi Mohamed Ben Abdellah University, Fes, Morocco.
 
