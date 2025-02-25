@@ -16,7 +16,7 @@ Autonomous and enthusiastic Java Developer with 3+ years of experience, I have d
 
 🔭 Areas of Interest: Machine Learning, Neural Networks, 3D Reconstruction.
 
-- 🔭 I’m currently working @**Tesselate Group as a Dev Engineer**
+- 🔭 I’m currently working @**Tesselate Group as a Full Stack Developer**
 - 🌱 I’m currently learning various **app architectures** to enhance my development skills
 - 📫 How to reach me **tofiklmghari@gmail.com**
 - ⚡ Fun fact **I love exploring new technologies and solving complex problems**
